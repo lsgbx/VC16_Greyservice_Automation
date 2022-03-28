@@ -9,3 +9,6 @@ Q&A:
   weditor+uiautomator2
   具体文档可以参考：
   https://crifan.github.io/android_automation_uiautomator2/website/
+3. 代码和相关文件在哪里
+  在7z压缩包当中，里面有adb连接工具，咱们的v0.5.1版本工程app，调通的部分脚本，以及使用方法
+  密码是咱们的试验车密码，qq那个
